@@ -119,7 +119,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![out](<Screenshot (102).png>)
+![out](<Screenshot (103).png>)
 
 ## HTML VALIDATOR
 
